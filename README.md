@@ -1,0 +1,2 @@
+# Torch-multi-plug-in
+Torch App &amp; Compass plugin ----------------------------------------------------------------------------- App Versions : 1.0.1 BT  -----------------------------------------------------------------------------  key features : *simple &amp; clean interface *lightweight *no useless permissions *internal compass *no ads  *open source  ----------------------------------------------------------------------------- Download link :  ----------------------------------------------------------------------------- source code link :
